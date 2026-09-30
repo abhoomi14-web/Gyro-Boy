@@ -1,0 +1,2 @@
+# This package is normally preinstalled on the ev3dev Stretch EV3 image.
+python-ev3dev2==2.1.0.post1
